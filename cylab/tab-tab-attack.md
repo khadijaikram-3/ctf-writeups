@@ -1,4 +1,4 @@
-# CyLab CTF: Tab Complete
+# CyLab CTF: Tab Tab Attack
 
 ##  Challenge
 Using tab complete in the Terminal will add years to your life, esp. when dealing with long rambling directory structures and filenames.
