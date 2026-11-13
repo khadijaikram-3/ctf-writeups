@@ -1,7 +1,7 @@
-# CyLab CTF: Warm
+# CyLab CTF: Wave a Flag
 
 ##  Challenge
-This program has extraordinarily helpful information. Download the file and find the flag.
+This program has extraordinarily helpful information. Download the file (warm) and find the flag.
 
 ##  Walkthrough
 1. Used `wget` to download the file directly into Kali:
