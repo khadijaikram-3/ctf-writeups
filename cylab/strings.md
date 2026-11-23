@@ -9,3 +9,8 @@ Find the flag hidden inside a binary file without executing it.
 3. Piped the output to `grep` to search for the flag:
    ```bash
    strings strings | grep -i "academy"
+   
+4. The flag appeared in the output.
+
+Flag
+academy{5tRIng5_1T_DAEbE8bd}
